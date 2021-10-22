@@ -7,3 +7,5 @@ Rules:
 - Each 3×3 box can only contain each number from 1 to 9 once
 - Each vertical column can only contain each number from 1 to 9 once
 - Each horizontal row can only contain each number from 1 to 9 once
+
+Language: Java
